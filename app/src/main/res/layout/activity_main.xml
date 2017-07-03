@@ -7,6 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#3d3d3d"
     tools:context=".MainActivity">
 
 
@@ -14,5 +15,6 @@
         android:id="@+id/seekbarWithIntervals"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true"></uk.co.informaticscentre.utils.controls.SeekbarWithIntervals>
+        android:progressTint="#FF5722"
+        android:layout_centerInParent="true"/>
 </RelativeLayout>

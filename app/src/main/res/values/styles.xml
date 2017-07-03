@@ -11,7 +11,12 @@
             backward-compatibility can go here.
         -->
     </style>
-    <style name="AppCompat" parent="Theme.AppCompat"/>
+
+    <style name="AppCompat" parent="Theme.AppCompat">
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+    </style>
 
     <!-- Application theme. -->
     <style name="AppTheme" parent="AppBaseTheme">

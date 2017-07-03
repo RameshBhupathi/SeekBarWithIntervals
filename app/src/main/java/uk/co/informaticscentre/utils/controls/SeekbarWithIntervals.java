@@ -223,7 +223,7 @@ public class SeekbarWithIntervals extends LinearLayout {
                     if (i == seekBar.getProgress())
                         tv.setTextColor(getResources().getColor(R.color.colorPrimary));
                     else
-                        tv.setTextColor(getResources().getColor(R.color.black));
+                        tv.setTextColor(getResources().getColor(R.color.white));
                 }
                 onSeekBarChangeListener.onProgressChanged(seekBar, progress, fromUser);
             }
