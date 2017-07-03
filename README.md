@@ -1,7 +1,8 @@
 
 # SeekBarWithIntervals
-This is SeekbarWithIntervals - an extension of the Seekbar with labels
- Seekbar with labelled intervals  Like Olx, SeekBar
+This is SeekbarWithIntervals - an extension of the Seekbar with labels.
+
+Seekbar with labelled intervals  Like Olx FilterView Seekbar.
  
 # Screen Shot
 <img src="first.png" width="30%"/> <img src="second.png" width="30%"/> 
